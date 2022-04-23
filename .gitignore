@@ -1,5 +1,7 @@
 # Adding config.py file.
 config.py
+# Large data file to ignore
+ratings.csv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
